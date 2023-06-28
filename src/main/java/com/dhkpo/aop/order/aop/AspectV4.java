@@ -7,6 +7,7 @@ import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
 
+// 포인트컷 외부 설정
 @Slf4j
 @Aspect
 public class AspectV4 {
