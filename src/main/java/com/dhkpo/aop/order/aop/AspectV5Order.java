@@ -9,7 +9,7 @@ import org.springframework.core.annotation.Order;
 
 // 어드바이스 적용 순서 설정
 @Slf4j
-public class AspectV5 {
+public class AspectV5Order {
 
     @Aspect
     @Order(2)
